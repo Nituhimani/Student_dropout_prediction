@@ -1,0 +1,18 @@
+,column,coefficient
+0,Marital status,-0.16454378918165163
+1,Course,0.27387723972656597
+2,Daytime/evening attendance,0.2618250956219721
+3,Previous qualification,0.15317250453876846
+4,Mother's qualification,0.484881814997627
+5,Father's qualification,-0.1814208561456639
+6,Mother's occupation,-1.288238661107512
+7,Father's occupation,-0.4871886406987401
+8,Displaced,0.010237482416553123
+9,Scholarship holder,-1.3168563717237292
+10,Age at enrollment,2.61304357995093
+11,Curricular units 1st sem (evaluations),-0.522607432194202
+12,Curricular units 2nd sem (evaluations),-1.7824301137219785
+13,GDP,-0.21906613627894925
+14,Gender,0.8687707438662146
+15,Tuition fees up to date,-3.205775366201121
+16,Educational special needs,0.2642244440854622
